@@ -1,0 +1,81 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: Roboto,Helvetica Neue,sans-serif;
+    
+    
+}
+
+.navbar {
+    background-color: #1d1d1d !important;
+    position: relative;
+    top: 0;
+    left: 0;
+    z-index: 50;
+    min-height: 75px;
+    padding: .5rem 1rem;
+   
+}
+.navbar>.container-fluid{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 30px;
+    margin: 0px 173px;
+    padding: 0px 15px;
+}
+.navbar-dark .navbar-nav .nav-link {
+    color:rgb(250, 250, 250) !important;
+    font-size: 13px ;
+    margin: 0 12px;
+    cursor: pointer;
+}
+
+.img, svg {
+    color: rgba(250, 250, 250, 0.562);
+    margin-left: 45px;
+    width: 18px;
+    font-size: 20px;
+    text-align: center;
+    vertical-align: middle;
+}
+.iphone13{
+    width: 100%;
+    height: 56px;
+    margin: auto;
+    padding-top: 16px;
+    text-align: center;
+    background-color: #8c8c8c;
+    color: #fff;
+   
+   
+}
+
+  ul{
+    list-style-type: none;
+    display: flex;
+   
+
+}
+.shoplist{
+    display: flex;
+    margin: auto;
+    padding-top: 100px;
+    border-bottom:1px solid rgba(158, 158, 158, 0.479) ;
+}
+.shoplist li{
+   
+    padding: 15px;
+    padding-bottom: 25px;
+    text-decoration: none;
+    color: black;
+    
+   
+}
+
+
+ ul li a{
+    text-decoration: none;
+}
+
+
+

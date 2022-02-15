@@ -1,0 +1,39 @@
+ body{
+    
+ }
+
+.container .row .boxmodel  {
+    width: 100%;
+   height: 100%;
+    padding: 10px;
+    margin-bottom: 50px;
+    justify-content: center;
+    text-align: center;
+    
+   
+   
+}
+
+
+
+.container .row .boxmodel .btn 
+{
+ 
+padding-left: 20px;
+padding-right: 20px ;
+  font-weight: bolder;
+  border-radius: 30px;
+  border: 1px solid green; 
+  text-align: center;
+  vertical-align: middle;
+  -webkit-user-select: none;
+  user-select: none;
+  margin-bottom: 20px;
+}
+
+.container .row .boxmodel img
+{ 
+    margin-bottom: 30px;
+ }
+ 
+ 
